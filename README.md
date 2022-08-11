@@ -1,1 +1,2 @@
-# This repository contain some python projects done during training
+# Python tutorial
+* This repository contain some python projects done during training
